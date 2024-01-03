@@ -1,0 +1,5 @@
+name: SurgeMC
+version: '${version}'
+main: xyz.surgeme.surgemc.SurgeMC
+api-version: '1.20'
+load: STARTUP
